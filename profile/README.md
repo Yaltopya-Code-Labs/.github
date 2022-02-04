@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Get Involved
+
+Right now, we are creating some open source projects that <b>HABESHA</b> code community can contribute and there are excellent "good first issue" opportunities, if you're looking to get involved.
+
+Explore featured projects
+Visit www.yatlopyacodelabs.com to learn more!
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
